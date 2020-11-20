@@ -1,6 +1,6 @@
 {
     "homepage": "https://ehsanulhaq001.github.io/diary",
-    "name": "beta-one",
+    "name": "diary",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
