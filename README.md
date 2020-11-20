@@ -2,7 +2,7 @@
 
 ### However this project is not complete yet.
 
-## See the [LIVE DEMO][website] 🌱
+## See the [LIVE DEMO](https://ehsanulhaq001.github.io/diary) 🌱
 
 [<img  alt="diaryPreview" width="1080" src="./preview.png" />][website]
 
