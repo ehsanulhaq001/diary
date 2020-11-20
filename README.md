@@ -2,6 +2,8 @@
 
 ### However this project is not complete yet.
 
+## See the [LIVE DEMO](https://ehsanulhaq001.github.io/diary)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
