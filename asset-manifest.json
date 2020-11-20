@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/diary/static/css/main.406b0c91.chunk.css",
+    "main.js": "/diary/static/js/main.1f2ccbbc.chunk.js",
+    "main.js.map": "/diary/static/js/main.1f2ccbbc.chunk.js.map",
+    "runtime-main.js": "/diary/static/js/runtime-main.bcba4c1c.js",
+    "runtime-main.js.map": "/diary/static/js/runtime-main.bcba4c1c.js.map",
+    "static/css/2.1e192554.chunk.css": "/diary/static/css/2.1e192554.chunk.css",
+    "static/js/2.2fe12613.chunk.js": "/diary/static/js/2.2fe12613.chunk.js",
+    "static/js/2.2fe12613.chunk.js.map": "/diary/static/js/2.2fe12613.chunk.js.map",
+    "static/js/3.f414a59f.chunk.js": "/diary/static/js/3.f414a59f.chunk.js",
+    "static/js/3.f414a59f.chunk.js.map": "/diary/static/js/3.f414a59f.chunk.js.map",
+    "index.html": "/diary/index.html",
+    "static/css/2.1e192554.chunk.css.map": "/diary/static/css/2.1e192554.chunk.css.map",
+    "static/css/main.406b0c91.chunk.css.map": "/diary/static/css/main.406b0c91.chunk.css.map",
+    "static/js/2.2fe12613.chunk.js.LICENSE.txt": "/diary/static/js/2.2fe12613.chunk.js.LICENSE.txt",
+    "static/media/spiral.da29cf08.jpg": "/diary/static/media/spiral.da29cf08.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcba4c1c.js",
+    "static/css/2.1e192554.chunk.css",
+    "static/js/2.2fe12613.chunk.js",
+    "static/css/main.406b0c91.chunk.css",
+    "static/js/main.1f2ccbbc.chunk.js"
+  ]
+}
